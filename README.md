@@ -2,7 +2,15 @@
 
 SOURCE CODE
 
+
 ---
+
+### 🌐 〢 Game & Username , Password
+
+- The product you ordered
+- Username and password are used for logging in to Loader.
+---
+
 
 ### 📕 〢 Email
 
