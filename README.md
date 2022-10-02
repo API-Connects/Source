@@ -19,7 +19,7 @@
 
 ---
 
-- Once the payment is complete we will review the entire source code, which may take 4-5 Hours
+- Once the payment is complete we will review the entire source code, which may take 1-3 Hours
 
 - Your only duty is to wait. Because we will not send inefficient products to customers.
 
